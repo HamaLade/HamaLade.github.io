@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "HamaLade's blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "HamaLade"
 description              : "An amazing website."
 url                      : "https://HamaLade.github.io"# the base hostname & protocol for your site e.g. 
 baseurl                  : ""# the subpath of your site, e.g. 
@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "HamaLade"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Do"
+  location         : "South Korea"
+  email            : gkntjriqwe@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

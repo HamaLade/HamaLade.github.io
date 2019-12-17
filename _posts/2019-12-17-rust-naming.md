@@ -11,7 +11,7 @@ categories: Rust Naming
 &nbsp;&nbsp;UUID같은 약어는 한 단어로 취급하므로 Uuid로 적어야 합니다.  
 
 
-##명명 규칙
+#명명 규칙
 
 &nbsp;Crates : snake_case (단어 하나만 쓰는걸 권장)  
 &nbsp;Modules(모듈) : snake_case  

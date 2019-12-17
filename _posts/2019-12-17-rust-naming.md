@@ -30,4 +30,4 @@ categories: Rust Naming
     Type parameters(타입 매개변수) : 대문자 하나 (예로 T, U 등)
     Lifetimes(수명) : 짧은 소문자 (예로 'a, 'b 등)
     
-    [퍼옴](https://neurowhai.tistory.com/69)
+    [퍼옴]<https://neurowhai.tistory.com/69>

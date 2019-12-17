@@ -3,7 +3,7 @@ title: "Rust naming"
 date: 2019-12-17 20:56:00 -0400
 categories: Rust Naming
 ---
-[명명법 종류]
+명명법 종류
 
     snake_case : 단어를 전부 소문자로 적고 언더바로 구분함.
     SCREAMING_SNAKE_CASE : 단어를 전부 대문자로 적고 언더바로 구분함.
@@ -11,7 +11,7 @@ categories: Rust Naming
         UUID같은 약어는 한 단어로 취급하므로 Uuid로 적어야 합니다.
 
 
-[명명 규칙]
+명명 규칙
 
     Crates : snake_case (단어 하나만 쓰는걸 권장)
     Modules(모듈) : snake_case
@@ -30,4 +30,4 @@ categories: Rust Naming
     Type parameters(타입 매개변수) : 대문자 하나 (예로 T, U 등)
     Lifetimes(수명) : 짧은 소문자 (예로 'a, 'b 등)
     
-    [퍼옴]<https://neurowhai.tistory.com/69>
+[Ref](https://neurowhai.tistory.com/69)
